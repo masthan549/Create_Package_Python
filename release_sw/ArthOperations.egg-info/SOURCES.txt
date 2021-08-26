@@ -1,0 +1,12 @@
+README.md
+setup.py
+ArthOperations.egg-info/PKG-INFO
+ArthOperations.egg-info/SOURCES.txt
+ArthOperations.egg-info/dependency_links.txt
+ArthOperations.egg-info/top_level.txt
+MultiplyOperation/Multi.py
+MultiplyOperation/__init__.py
+SquareOperation/Square.py
+SquareOperation/__init__.py
+SumOperation/Sum.py
+SumOperation/__init__.py

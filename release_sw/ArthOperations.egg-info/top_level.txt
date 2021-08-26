@@ -1,0 +1,3 @@
+MultiplyOperation
+SquareOperation
+SumOperation
